@@ -1,8 +1,8 @@
-import { Piece } from "./index";
-import { Queen } from "./queen";
-import { Tower } from "./tower";
-import { Horse } from "./horse";
-import { Bishop } from "./bishop";
+import { Piece } from "./index.js";
+import { Queen } from "./queen.js";
+import { Tower } from "./tower.js";
+import { Horse } from "./horse.js";
+import { Bishop } from "./bishop.js";
 
 export class Pawn extends Piece {
     constructor(color, position) {

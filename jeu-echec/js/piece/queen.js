@@ -1,4 +1,4 @@
-import {Piece} from "./index";
+import {Piece} from "./index.js";
 
 export class Queen extends Piece {
     constructor(color, position) {

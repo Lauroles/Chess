@@ -1,10 +1,10 @@
-import { Piece } from "./piece/index";
-import { Bishop } from "./piece/bishop";
-import { Horse } from "./piece/horse";
-import { King } from "./piece/king";
-import { Pawn } from "./piece/pawn";
-import { Queen } from "./piece/queen";
-import { Tower } from "./piece/tower";
+import { Piece } from "./piece/index.js";
+import { Bishop } from "./piece/bishop.js";
+import { Horse } from "./piece/horse.js";
+import { King } from "./piece/king.js";
+import { Pawn } from "./piece/pawn.js";
+import { Queen } from "./piece/queen.js";
+import { Tower } from "./piece/tower.js";
 
 /**
  * Réprésentation d'un plateau d'échecs basique
